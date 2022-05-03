@@ -1,4 +1,4 @@
-#!/bin/env python
+#!/usr/bin/env python
 
 #
 # Configuration Utility für Leo Bodnar GPSDO
